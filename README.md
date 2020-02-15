@@ -13,7 +13,7 @@ Demo an application use VueJs with some component and functions
 - [VueJs Docs](https://vuejs.org/v2/guide/)
 
 ### Demo
-[Demo VueJs]()
+[https://github.com/duycs/demo-vuejs](https://github.com/duycs/demo-vuejs)
 
 ### TODO
 - Authentication
