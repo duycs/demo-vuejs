@@ -13,10 +13,15 @@ Demo an application use VueJs with some component and functions
 - [VueJs Docs](https://vuejs.org/v2/guide/)
 
 ### Demo
-[Demo VueJs]()
+- Clone this repository:
+[https://github.com/duycs/demo-vuejs.git](https://github.com/duycs/demo-vuejs.git)
+
+- Run:
+```
+yarn start
+```
 
 ### TODO
-- Authentication
 - Common components
 - Servies
 - Routing
