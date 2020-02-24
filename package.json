@@ -1,11 +1,10 @@
 {
-  "name": "vue-vuex-jwt-authentication-example",
+  "name": "Demo VueJs",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cornflourblue/vue-vuex-jwt-authentication-example.git"
+    "url": "https://github.com/duycs/demo-vuejs.git"
   },
-  "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --open"
   },
